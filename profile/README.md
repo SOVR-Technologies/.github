@@ -49,4 +49,11 @@ All kernel trees published by SOVR Technologies strictly comply with the **GNU G
 * **SOVR-Kernel-A50:** Built upon the community-proven **Mint Kernel** base by [@TenSeventySeven](https://github.com/TenSeventySeven), extended with SOVR sanitization, security backports, and hardware tuning.
 
 ---
+
+### 05 // SUPPORT
+If SOVR kernels keep your hardware alive and you want to support development:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa.svg?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ruuiii-tk)
+
+---
 `SOVR TECHNOLOGIES // HARDWARE SOVEREIGNTY STARTS AT THE KERNEL`
